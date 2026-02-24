@@ -2,6 +2,7 @@
 
 ## 연락처 (Contact)
 이메일: tqbuck@umich.edu 
+
 LinkedIn: https://www.linkedin.com/in/toby-buckfire-380369216/
 
 ## 소개 (Introduction)
