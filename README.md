@@ -1,5 +1,12 @@
-## Hi there 👋
+# 벅파이어 토비  (Toby Buckfire)
 
+##연락처 (Contact)
+###   이메일: tqbuck@umich.edu
+###   LinkedIn: https://www.linkedin.com/in/toby-buckfire-380369216/
+
+안녕하세요. 제 이름은 벅파이어 토비입니다. 저는 미국 미시간대학교(University of Michigan)에서 데이터 과학과 컴퓨터 과학을 전공하는 4학년 학생입니다. 내년에 미시간대학교 SUGS 프로그램을 1년 동안 컴퓨터 과학 석사 과정을 할 것입니다.
+
+지난 여름에 Blue Zebra Marketing에서 데이터 분석 인턴으로 일했습니다. 현재는 미시간대학교 EECS 376 과목의 채점 조교로 활동하고 있습니다. 그리고 이번 여름에는 Consumers Energy에서 데이터 과학 인턴으로 일할 것입니다.
 <!--
 **tbuckfire/tbuckfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
