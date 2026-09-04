@@ -1,4 +1,4 @@
-# Buckfire Toby
+# Toby Buckfire
 
 ## Contact
 Email: tqbuck@umich.edu
